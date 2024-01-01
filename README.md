@@ -1,1 +1,1 @@
-Programa que cuenta las palabras que introduce el usuario.
+Program that counts the words that the user enters.
